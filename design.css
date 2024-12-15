@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#navigation_links {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 176.17px;
+    margin-right: 176.17px;
+}
+
+#navigation_logo {
+    vertical-align: middle;
+}
+
+#contact {
+    vertical-align: middle;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background: #00AC25;
+    color: #FFF;
+    font-family: "Inter";
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#header_cont {
+    max-width: 1140px;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    padding: 12px 80px;
+}
+
+#about {
+    color: #FF5DA3;
+    font-family: "Inter";
+    font-size: 18px;
+}
+
+#navigation_links a {
+    margin-left: 20px;
+    color: #323232;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#main {
+    text-align: center;
+    font-family: "Lucida Console";
+    max-width: 1316px;
+    width: 100%;
+    margin: auto;
+    margin-top: 190px;
+}
+
+h1{
+    font-size: 72px;
+    margin-bottom: 24px;
+}
+
+span {
+    color: #FF5DA3;
+}
+
+#section_one_paragraph {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 24px;
+}
+
+h2 {
+    font-size: 48px;
+    margin-bottom: 24px;
+}
+
+#section_two_paragraph {
+    color: #6941C6;
+    font-size: 24px;
+    max-width: 716px;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 24px;
+}
+
+#become_instructor_button {
+    padding: 16px 24px;
+    border-radius: 8px;
+    background: #00AC25;
+    color: #FFF;
+    font-size: 18px;
+    margin-bottom: 578px;
+}
+
+#footer {
+    text-align: center;
+    font-family: "Lucida Console";
+    background: #53389E;
+    max-height: 128px;
+    height: 100%;
+    padding: 48px;
+}
+
+#footer_links {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 192px;
+    margin-right: 192px;
+    font-size: 16px;
+    color: #E9D7FE;         /* ეს ფერს რატომ არ უცვლის არ ვიცი, ალბათ რომელიმე სხვა კოდი ხელს უშლის */
+    text-decoration: none;
+}
+
+#logo_footer {
+    vertical-align: middle;
+}
+
+#footer_links a {
+    margin-left: 32px;
+}
+
+#copyright {
+    display: inline-block;
+    vertical-align: middle;
+    color: #D6BBFB;
+    font-size: 16px;
+}
